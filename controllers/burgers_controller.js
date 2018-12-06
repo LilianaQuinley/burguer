@@ -25,9 +25,3 @@ router.put('/burgers/update' , function (req, res) {
 
 module.exports = router;
 
-// Inside the burgers_controller.js file, import the following:
-
-
-
-// Express
-// burger.js
